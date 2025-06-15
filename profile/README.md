@@ -34,7 +34,7 @@ graph TD
     A[Feature Concept] --> B[Technical Design]
     B --> C[Implementation]
     C --> D[Testing & Optimization]
-    D --> H[Update]
+    D --> F[Update]
     E --> F[Release]
     F --> G[User Feedback]
     G --> H[Iterative Improvement]
