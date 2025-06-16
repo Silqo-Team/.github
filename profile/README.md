@@ -54,8 +54,6 @@ graph TD
 ## 🏆 Key Achievements
 
 - Developed 4 distinct image compression algorithms from scratch  
-- Created responsive UI with dark/light theme support  
-- Implemented real-time visual comparison slider  
 - Maintained 100% client-side processing architecture  
 - Achieved average 40–70% image size reduction  
 - Implemented multi-language support (English/Russian)  
